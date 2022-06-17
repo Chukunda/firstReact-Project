@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # textStyle_generator(react)
 >>>>>>> e77077635bf9158858e2e340501bcfec91a0ed7a
+=======
+# firstReact-Project
+>>>>>>> 4f340864ae4f0d312fdda57246d4a765165bbdd5
